@@ -11,5 +11,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <title>Morpheus CI - <?=$title ?></title>
 </head>
+<header>
+    <h1>Morpheus CI</h1>
+</header>
 <body>
     
