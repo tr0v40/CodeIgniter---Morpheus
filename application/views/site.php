@@ -1,4 +1,3 @@
-<?php
-
-
-
+<html>
+    <?php echo 'a'; ?>
+</html>
